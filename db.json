@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "slotid":1  "otp": "1234"  },
-    { "id": 2, "slotid":2  "otp": "5678"  },
-    { "id": 3, "slotid":3  "otp": "1435"  }
+    { "id": 1, "slotid":1,  "otp": 1234  },
+    { "id": 2, "slotid":2,  "otp": 5678  },
+    { "id": 3, "slotid":3,  "otp": 1435  }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
